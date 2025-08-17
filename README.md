@@ -32,6 +32,9 @@ To automate **blog writing and illustration**, saving time for content creators,
 git clone https://github.com/Afzaal-Ijaz/AI_BLOG_Generation.git
 cd blog-generator-app
 
+
+
+
 👨‍💻 Author
 
 Afzaal Ijaz
